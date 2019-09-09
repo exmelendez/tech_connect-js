@@ -14,6 +14,8 @@ Completely redesigned the solution requested by professor. I've eliminted the us
 - Applied modified styling to checkbox that converts it to a slide/animated switch.
 - Made use of ES6 functions & conditionals.
 
+![Screen Shot](img/empty_ss.png)
+
 ## Bugs
 
 The entry input is of _number_ type which on some browsers prevents the entry of non-numeric characters. I have included a conditional statement (with _Number.isNaN_) to render an error message if a non-numeric character is entered however it does not work properly on the Safari browser. On Safari, although it does not display a proper out, it does allow for non-numeric entries and it does not display the error message.
