@@ -10,6 +10,6 @@ As a graduate of phase I, and a self-starter who's been learning PHP, React, Nod
 
 ## Exercises
 
-[Unit 1](units/unit_1/unit1.md)
+[Unit 1](units/unit_1)
 
-[Unit 2](units/unit_2/unit2.md)
+[Unit 2](units/unit_2)

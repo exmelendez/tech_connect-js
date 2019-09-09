@@ -2,9 +2,9 @@
 
 ## Unit 1 Assigned Exercises
 
-- [Temperature Conversion](exercises/1/u1ex1.md)
+- [Temperature Conversion](exercises/1)
 
-- [Calculate Average](exercises/2/u1ex2.md)
+- [Calculate Average](exercises/2)
 
 ## Unit 1 Self-Improved Exercises
 

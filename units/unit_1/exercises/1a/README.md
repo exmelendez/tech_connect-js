@@ -16,10 +16,12 @@ Completely redesigned the solution requested by professor. I've eliminted the us
 
 ![Screen Shot](img/empty_ss.png)
 
+![Screen Shot](img/filled_ss.png)
+
 ## Bugs
 
 The entry input is of _number_ type which on some browsers prevents the entry of non-numeric characters. I have included a conditional statement (with _Number.isNaN_) to render an error message if a non-numeric character is entered however it does not work properly on the Safari browser. On Safari, although it does not display a proper out, it does allow for non-numeric entries and it does not display the error message.
 
 ## View Instructions
 
-Click on the _u1ex1a.hmtl_ file above to view the HTML structure, content and link to the JS file. To view the JS file click on the _JS_ folder above where you will find a single file named _main_.
+Click on the _u1ex1a.hmtl_ file above to view the HTML structure, content and link to the JS file. To view the JS file click on the _JS_ folder above where you will find a single file named _main_. You may also view the images and/or CSS file by clicking on their respective folder names above.
