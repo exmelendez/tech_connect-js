@@ -9,3 +9,5 @@
 ## Unit 1 Self-Improved Exercises
 
 - [Temperature Conversion](exercises/1a)
+
+- [Calculate Average](exercises/2a)

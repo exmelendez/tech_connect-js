@@ -1,6 +1,6 @@
 # Unit 1 - Exercise One (Self Improved) | Temperature Conversion
 
-## Objective
+## Given Objective
 
 Create a program that accepts a temperature degree in Celsius from a prompt and alerts the user the converted result within an alert message. The alert message should say, _"The temperature is: (the converted degrees) F"_
 
