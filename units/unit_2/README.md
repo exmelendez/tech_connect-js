@@ -2,8 +2,8 @@
 
 ## Unit 2 Assigned Exercises
 
-- [Calorie Tracker](exercises/1/ex1.md)
+- [Calorie Tracker](exercises/1)
 
 ## Unit 2 Self-Improved Exercises
 
-- [Calorie Tracker](exercises/1a/ex1a.md)
+- [Calorie Tracker](exercises/1a)
