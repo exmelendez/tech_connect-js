@@ -8,4 +8,4 @@
 
 ## Unit 1 Self-Improved Exercises
 
-- [Temperature Conversion](exercises/1a/u1ex1a.md)
+- [Temperature Conversion](exercises/1a)
