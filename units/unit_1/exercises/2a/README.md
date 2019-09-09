@@ -14,7 +14,7 @@ Extra credit: Make the program ask for the students name as well and then alert 
 - Display results using template literals and rendering to an HTML paragraph element
 - Making use of Event Listener functions
 - User ability to add as many inputs as they wish, the program will calculate average based on number of valid entries
-- Conditional checks to ensure data is not missed or empty
+- Conditional checks to ensure data is not missing or empty
 - Empty inputs are ignored and not used to total score
 - Empty _name_ input results in a standard _student_ title rendering in result
 - All entries converted to number to ensure properly calculation
@@ -22,6 +22,10 @@ Extra credit: Make the program ask for the students name as well and then alert 
 - ES6 function created to remove extra inputs upon form submit/reset
 
 ![Screen Shot](img/calcAverage_ss.png)
+
+## Bugs
+
+The score(s) input(s) is of _number_ type which is supposed to prevent the entry of non-numeric characters; However it does not work properly on the Safari browser. On Safari, although it does not display a proper out, it does allow for non-numeric entries.
 
 ## View Instructions
 
