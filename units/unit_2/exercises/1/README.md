@@ -2,7 +2,10 @@
 
 ## Objective
 
-Copy text here from sheet
+James cycling class burns 125 calories per hour, James daily calorie intake is 3500 calories. Build a program that accepts how much hours James would like to work out. Output the amount of calories James has burned to an h1 tag on your page. Then output a summary of James calorie intake, hours he worked out and final calorie count for the day inside of a paragraph tag underneath the h1.
+
+_Extra Credit - Using JavaScript add the following styling to emphasis the calories that James had burned.
+Font-size: 36px Font-family: Impact Color: red_
 
 ### Solution/Features
 
