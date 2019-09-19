@@ -9,7 +9,7 @@ One of your New Year's Resolution's was to eat healthy. Part of that resolution 
 
 These outputs should happen on click of a button.
 
-\*\*Extra credit: You will be left with a lot of decimal places, only return 1 decimal place. Also, try and output the amount that was drank in cups of water.
+\*\*Extra credit: You will be left with a lot of decimal places, only return 1 decimal place. Also, try and output the amount that was drank in cups of water.\*\*
 
 ### Solution/Features
 
