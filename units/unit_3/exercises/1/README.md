@@ -6,8 +6,8 @@ You own an online store that sells goods. The store is based outside of the Unit
 
 Create a program that will help your customers convert the length of your products from centimeters to inches. Your program should accept using input of the item they would like to purchase and item size in centimeters. You should have two (2) outputs:
 
-_- The **itemName** that you would like to purchase is **Num** cm._
-_- The **itemName** is **Inches** in long._
+- _The **itemName** that you would like to purchase is **Num** cm._
+- _The **itemName** is **Inches** in long._
 
 ### Solution/Features
 
