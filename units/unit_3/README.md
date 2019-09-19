@@ -3,3 +3,5 @@
 ## Unit 3 Assigned Exercises
 
 - [Metric Conversion](exercises/1)
+
+- [Water Log Conversion](exercises/2)
