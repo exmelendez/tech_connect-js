@@ -13,3 +13,5 @@ As a graduate of phase I, and a self-starter who's been learning PHP, React, Nod
 [Unit 1](units/unit_1)
 
 [Unit 2](units/unit_2)
+
+[Unit 3](units/unit_3)
