@@ -12,18 +12,23 @@
     <hr />
 
     <form>
-      <label>Level Select: </label>
-      <select>
-        <option selected required disabled>Select Level</option>
-      </select>
+      <label>Posted Speed Limit: </label>
+      <input
+        type="number"
+        name="posted_speed"
+        placeholder="posted speed limit"
+        required
+      />
 
-      <label>Section Number: </label>
-      <input type="number" required />
+      <label>Enter actual driving speed: </label>
+      <input
+        type="number"
+        name="actual_speed"
+        placeholder="driving speed"
+        required
+      />
 
-      <select>
-        <option selected required disabled>Select Quantity</option>
-      </select>
-      <button type="button">Search</button>
+      <button type="button">Calculate</button>
     </form>
 
     <div></div>
