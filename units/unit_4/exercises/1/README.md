@@ -1,4 +1,4 @@
-# Unit 3 - Exercise One (Assigned) | MSG Ticket Seating
+# Unit 4 - Exercise One (Assigned) | MSG Ticket Seating
 
 ## Objective
 
@@ -13,10 +13,13 @@ The APP should output:
 
 ### Solution/Features
 
-- Use of ES6 Function declaration
-- use of _querySelector_
-- use of _innerHTML_ to input new _p_ elements
-- use of click _eventListerner_
+- Use of _const_ variables with capitalized naming
+- Created helper functions for creating option nodes that append to select elements
+- Use of self invoking functions that use an array and for loops to generate select HTML elements
+- Use of _querySelector_ to choose, find and use the select HTML tags
+- Creation of success and failure methods that output an error or success message based on proper inputs
+- Use of functions and conditionals (if/else/switch) to verify blank inputs and that levels match proper section numbers
+- Use of event listener with button
 
 ## View Instructions
 
