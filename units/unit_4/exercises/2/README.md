@@ -23,12 +23,13 @@ The APP should output in return:
 ### Solution/Features
 
 - Use of _const_ variables with capitalized naming
-- Created helper functions for creating option nodes that append to select elements
-- Use of self invoking functions that use an array and for loops to generate select HTML elements
-- Use of _querySelector_ to choose, find and use the select HTML tags
-- Creation of success and failure methods that output an error or success message based on proper inputs
-- Use of functions and conditionals (if/else/switch) to verify blank inputs and that levels match proper section numbers
-- Use of event listener with button
+- Creation of const functions/variables above all running code
+- Created helper functions, one that returns number of point value violation based on a miles given parameter, one to reset the input value back to blank and another that renders the status message to a div based on parameters of message type
+- Array useage to store/render the status messages with a for loop
+- Use of JS to create HTML P tag elements and set their attribute(s)
+- Use of conditionals to determine probably value input and to determine message types
+- Code/function creation meant to prevent duplicate code and minimize
+- Use of _button_ and _eventListener_ to execute functions
 
 ## View Instructions
 
