@@ -47,6 +47,7 @@ const STATUS_MSG = (type, msgList) => {
 
         MSG_DIV.appendChild(NEW_P);
         MSG_DIV.appendChild(NEW_P2);
+        RESET_INPUTS();
     }
 };
 
@@ -63,13 +64,11 @@ SUBMIT_BTN.addEventListener('click', () => {
         if(POSTED_LIMIT === 0) {
             STATUS_MSG('success', [`You were driving ${DRIVING_SPEED_INP - POSTED_LIMIT}MPH.`, '3 Points will be added to your license']);
 
-            RESET_INPUTS();
         } else if(DRIVING_SPEED > POSTED_LIMIT) {
             const MILES_OVER = DRIVING_SPEED_INP - POSTED_LIMIT;
 
-            STATUS_MSG('success', [`You were driving ${MILES_OVER}MPH.`, `${POINT_ASSESSER(MILES_OVER)} Points will be added to your license`]);
+            STATUS_MSG('success', [`You were driving ${MILES_OVER}MPH over the speed limit.`, `${POINT_ASSESSER(MILES_OVER)} Points will be added to your license.`]);
 
-            RESET_INPUTS();
         } else {
             STATUS_MSG('error', ['incorrect data entered']);
         }
