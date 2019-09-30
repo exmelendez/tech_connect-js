@@ -23,11 +23,11 @@ The APP should output in return:
 ### Solution/Features
 
 - Use of _const_ variables with capitalized naming
-- Creation of const functions/variables above all running code
+- Creation of _const_ functions/variables above all running code
 - Created helper functions, one that returns number of point value violation based on a miles given parameter, one to reset the input value back to blank and another that renders the status message to a div based on parameters of message type
-- Array useage to store/render the status messages with a for loop
+- _Array_ useage to store/render the status messages with a for loop
 - Use of JS to create HTML P tag elements and set their attribute(s)
-- Use of conditionals to determine probably value input and to determine message types
+- Use of _conditionals_ to determine probably value input and to determine message types
 - Code/function creation meant to prevent duplicate code and minimize
 - Use of _button_ and _eventListener_ to execute functions
 
